@@ -1,4 +1,4 @@
-###👋 Hi there 
+### Hi there 👋
 
 ---
 I'm Patricia, a passionate web developer currently honing my skills through a comprehensive program at DCI. With a solid foundation in HTML, CSS, and JavaScript, I've expanded my expertise to include modern tools and frameworks such as TailwindCSS, Sass, React, and TypeScript. My backend proficiency spans MongoDB, Express, and NodeJS, enabling me to build robust and scalable applications.
