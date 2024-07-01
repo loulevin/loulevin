@@ -13,4 +13,4 @@ I have my sights set on mastering Python to broaden my skill set even further. J
 
 ### 🛠 Tech Stack
 ---
-![MySkills](https://skillicons.dev/icons?i=js,ts,html,css,react,mongodb,express,nodejs,md,)
+![MySkills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,mongodb,express,nodejs,md,)
